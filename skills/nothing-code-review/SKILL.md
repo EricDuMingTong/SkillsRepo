@@ -1,5 +1,5 @@
 ---
-name: nt-code-review
+name: code-review
 description: Review code for bugs, security vulnerabilities, performance issues, and best practices. Use this skill whenever the user asks for a code review, shares code and wants feedback, mentions "review this", "check my code", "what's wrong with this code", pastes a diff or PR, or asks about code quality. Also trigger when users share code snippets and ask general questions that would benefit from a thorough review, even if they don't explicitly say "review".
 version: 1.0.1
 ---
