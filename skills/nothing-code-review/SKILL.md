@@ -114,6 +114,7 @@ After completing the review, **always save the full review result to a markdown 
 - If a commit ID is available, include it in the filename: `review-<commitId>.md`
 - If a patch name or keyword is available (e.g., from a branch name, PR title, or diff filename), append it: `review-<commitId>-<patchKeyword>.md`
 - If neither is available, use the default name: `code-review-result.md`
+- Show the output filename in the dialog context to user and has click hyperlink effect on it.
 
 The file should contain the complete review output in markdown format.
 
